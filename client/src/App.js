@@ -1,9 +1,11 @@
-import './App.css';
+// import './App.css';
 import { JoinRoom } from './pages/JoinRoom';
 
 function App() {
   return (
-   <JoinRoom />
+   <>
+    <JoinRoom/>
+   </>
   );
 }
 
